@@ -1,0 +1,21 @@
+.fb-image{
+    height:40px; 
+    width:40px;
+}
+.virat-text{
+    color: white !important;
+    margin-left: 5px !important;
+}
+.rf{
+    height:'10px';
+    width:'10px';
+}
+.shortcut{
+    color:white !important;
+    margin-left: 5px !important;
+    margin-bottom: 10px !important;
+}
+.short-text{
+    color:white !important; 
+    margin-left: 20px !important; 
+}
