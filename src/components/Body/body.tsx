@@ -12,7 +12,7 @@ import status2 from "../Pictures/status2.png";
 import status3 from "../Pictures/status3.png";
 import status4 from "../Pictures/status4.png";
 
-class Home extends Component {
+class Body extends Component {
   render() {
     return (
       <Box>
@@ -93,4 +93,4 @@ class Home extends Component {
     );
   }
 }
-export default Home;
+export default Body;
